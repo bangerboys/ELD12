@@ -1,0 +1,4 @@
+NET "input_clock" LOC = "B8";
+NET "output_clock" LOC = "G1";
+NET "output_clock2" LOC = "P4";
+NET "output_clock3" LOC = "N4";
